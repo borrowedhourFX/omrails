@@ -1,0 +1,28 @@
+/* You could use this to change he font sitewide */
+/* $baseFontFamily: Oxygen;
+@import url(https://fonts.googleapis.com/css?family=Oxygen);
+*/
+
+$navbarBackgroundHighlight: white;
+$navbarBackground: white;
+$btnPrimaryBackground: purple;
+
+@import 'bootstrap';
+
+body {
+		padding-top: 40px;
+}
+@import 'bootstrap-responsive';
+
+.navbar-inner{
+    @include box-shadow(none !important);
+    border: 0;
+}
+
+.footer {
+	margin-top: 50px;
+	color: $grayLight;
+	a {
+		color: $gray;
+	}
+}

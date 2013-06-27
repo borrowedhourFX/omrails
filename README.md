@@ -1,6 +1,6 @@
-# One Month Rails
+# One Month Rails for Borrowedhour
 
-This is a sample application for
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+This is an extension of the 
+[*Borrowedhour website*](http://borrowedhour.com)
 
-by [Sorabh Garg](http://borrowedhour.com)
+by [Sorabh Garg](https://www.linkedin.com/in/sorabhgarg)
