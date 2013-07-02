@@ -1,11 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '1.9.3'
+gem 'ruby', '2.0.0'
 gem 'rails', '3.2.13'
 gem 'jquery-rails'
-gem 'devise','3.0.0.rc' 
-gem 'newrelic_rpm'
-gem 'simple_form'
 
 group :production do
   gem 'pg'

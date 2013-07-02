@@ -34,7 +34,4 @@ Omrails::Application.configure do
 
   # Expands the lines which load the assets
   config.assets.debug = true
-
-  # Needed to send users web url when contacting by email --required by Devise
-  config.action_mailer.default_url_options = { :host => 'localhost:3000' }
 end
